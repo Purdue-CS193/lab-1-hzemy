@@ -1,9 +1,8 @@
 # Hajera's first CS193 lab
-```markdown
+
 - We only have to meet **once** a week.
 - Easy work
 - Nice TAs
-```
 
 ## Welcome to GitHub Pages
 

@@ -1,6 +1,6 @@
 # Hajera's first CS193 lab
 
-- We only have to meet once a week.
+- We only have to meet *once* a week.
 - Easy work
 - Nice TAs
 
